@@ -3,7 +3,7 @@
 2. [English](#english)
 ****
 ### Spanish
-# Leack password
+# Leak password
 #### Automatizar busqueda de archivos con informacion sensible y contraseñas
 
 ## Tabla de contenido
